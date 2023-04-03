@@ -22,10 +22,10 @@
 ### How to initialize/run your application (where applicable)
 - in terminal run: python app.py 
 - from the menu pick from one if the following:
-- > Appetizers = ["Wings", "Cookies", "Spring Rolls"]
-- > Entrees = ["Salmon", "Steak", "Meat Tornado", "A Literal Garden"]
-- > Desserts = ["Ice Cream", "Cake", "Pie"]
-- > Drinks = ["Coffee", "Tea", "Unicorn Tears"]
+> Appetizers = ["Wings", "Cookies", "Spring Rolls"]
+> Entrees = ["Salmon", "Steak", "Meat Tornado", "A Literal Garden"]
+> Desserts = ["Ice Cream", "Cake", "Pie"]
+> Drinks = ["Coffee", "Tea", "Unicorn Tears"]
 - if item is not on the list it will show an error
 - if you type "quit" the app quits
 
