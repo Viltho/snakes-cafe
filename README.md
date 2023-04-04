@@ -1,6 +1,6 @@
 # snakes-cafe
 
-### Author: Student/Group Name
+### Author: Abdullah Abu Hamad/Group Name: N/A
 
 [//]: # (### Links and Resources)
 
